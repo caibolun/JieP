@@ -7,7 +7,7 @@ We propose a joint intrinsic-extrinsic prior model to estimate both illumination
 If you use these codes in your research, please cite:
 
 	@inproceedings{cai2017jiep,
-	  author={Cai, Bolun and Xu, Xiangmin and Guo, Kailing and Jia, Kui and Hu, Bin and Tao, Dacheng},
+	  author={Cai, Bolun and Xu, Xiangmin and Guo, Kailing and Jia, Kui and Hu, Bin and Tao, Dacheng},
 	  title={A Joint Intrinsic-Extrinsic Prior Model for Retinex},
 	  booktitle={IEEE International Conference on Computer Vision (ICCV)},
 	  year={2017}
